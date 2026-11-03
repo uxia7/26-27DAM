@@ -1,0 +1,16 @@
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7y8.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7y8.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.pdb
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.exe
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\bin\Debug\ejer7.pdb
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7y8.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7y8.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.exe
+C:\Users\uxiap\OneDrive\Escritorio\DI\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer7\obj\Debug\ejer7.pdb

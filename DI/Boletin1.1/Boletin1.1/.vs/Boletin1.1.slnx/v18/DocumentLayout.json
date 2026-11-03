@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin1.1\\boletin1.1\\ejercicio7\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|solutionrelative:ejercicio7\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin1.1\\boletin1.1\\ejercicio7\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|solutionrelative:ejercicio7\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin1.1\\boletin1.1\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7DA905-0F79-4B6A-8939-1DAB97448683}|Ejercicio7\\Ejercicio7\u00268.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C4A6D1-B55F-4F1C-9B7C-9B236E882E94}|Ejercicio10\\Ejercicio10.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin1.1\\boletin1.1\\ejercicio10\\gestormatriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C4A6D1-B55F-4F1C-9B7C-9B236E882E94}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\gestormatriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C4A6D1-B55F-4F1C-9B7C-9B236E882E94}|Ejercicio10\\Ejercicio10.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C4A6D1-B55F-4F1C-9B7C-9B236E882E94}|Ejercicio10\\Ejercicio10.csproj|solutionrelative:ejercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33421A9-31A2-46D9-89C8-A284186A725A}|Ejercicio9\\Ejercicio9.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\ejercicio9\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33421A9-31A2-46D9-89C8-A284186A725A}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33421A9-31A2-46D9-89C8-A284186A725A}|Ejercicio9\\Ejercicio9.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33421A9-31A2-46D9-89C8-A284186A725A}|Ejercicio9\\Ejercicio9.csproj|solutionrelative:ejercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Planeta.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Planeta.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Planeta.cs",
+              "RelativeToolTip": "Ejercicio7\\Planeta.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T22:38:09.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Astro.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Astro.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Astro.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Astro.cs",
+              "RelativeToolTip": "Ejercicio7\\Astro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T20:52:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4BAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T17:16:16.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio10\\Program.cs",
+              "RelativeToolTip": "Ejercicio10\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T07:54:59.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorMatriz.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio10\\GestorMatriz.cs",
+              "RelativeDocumentMoniker": "Ejercicio10\\GestorMatriz.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio10\\GestorMatriz.cs",
+              "RelativeToolTip": "Ejercicio10\\GestorMatriz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T10:54:44.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ordenador.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio9\\Ordenador.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Ordenador.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio9\\Ordenador.cs",
+              "RelativeToolTip": "Ejercicio9\\Ordenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:43:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin1.1\\Boletin1.1\\Ejercicio9\\Program.cs",
+              "RelativeToolTip": "Ejercicio9\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:43:22.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

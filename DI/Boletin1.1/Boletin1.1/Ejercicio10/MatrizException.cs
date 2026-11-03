@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio10
+{
+    internal class MatrizException : Exception
+    {
+        public MatrizException(string mensaje)
+        {
+            Console.WriteLine(mensaje);
+        }
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\bin\Debug\ejercicio3.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.Form1.resources
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.Properties.Resources.resources
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.csproj.GenerateResource.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejercicio3\obj\Debug\ejercicio3.exe.config

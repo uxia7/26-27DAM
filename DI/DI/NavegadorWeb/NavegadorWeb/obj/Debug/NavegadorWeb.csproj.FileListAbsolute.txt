@@ -1,0 +1,11 @@
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Properties.Resources.resources
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.GenerateResource.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\NavegadorWeb\NavegadorWeb\obj\Debug\NavegadorWeb.Form1.resources

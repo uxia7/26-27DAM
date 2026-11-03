@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|c:\\users\\uxiap\\onedrive\\escritorio\\2\u00BAdam(verano)2025\\di\\navegadorweb\\navegadorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|solutionrelative:navegadorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\navegadorweb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|solutionrelative:navegadorweb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\navegadorweb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|solutionrelative:navegadorweb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\navegadorweb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC240FF-BC10-4DFA-B1F8-24C7D2705DA3}|NavegadorWeb\\NavegadorWeb.csproj|solutionrelative:navegadorweb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Program.cs",
+              "RelativeDocumentMoniker": "NavegadorWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Program.cs",
+              "RelativeToolTip": "NavegadorWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:55:01.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.cs",
+              "RelativeDocumentMoniker": "NavegadorWeb\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.cs",
+              "RelativeToolTip": "NavegadorWeb\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:58:10.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.cs",
+              "RelativeDocumentMoniker": "NavegadorWeb\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NavegadorWeb\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:52:35.321Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NavegadorWeb\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\uxiap\\OneDrive\\Escritorio\\2\u00BADAM(verano)2025\\DI\\NavegadorWeb\\NavegadorWeb\\Form1.Designer.cs",
+              "RelativeToolTip": "NavegadorWeb\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:01:25.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

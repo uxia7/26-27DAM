@@ -1,0 +1,14 @@
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7&8.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7&8.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\uxiap\OneDrive\Escritorio\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7.pdb
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7&8.csproj.AssemblyReference.cache
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7&8.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\uxiap\26-27DAM\DI\Boletin1.1\Boletin1.1\Ejercicio7\obj\Debug\Ejercicio7.pdb

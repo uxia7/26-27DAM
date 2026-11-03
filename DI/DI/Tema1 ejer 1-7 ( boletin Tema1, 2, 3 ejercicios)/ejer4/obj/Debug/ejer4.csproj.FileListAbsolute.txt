@@ -1,0 +1,8 @@
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\bin\Debug\ejer4.exe.config
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\bin\Debug\ejer4.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\bin\Debug\ejer4.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\obj\Debug\ejer4.csproj.AssemblyReference.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\obj\Debug\ejer4.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\obj\Debug\ejer4.exe
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\obj\Debug\ejer4.pdb
+C:\Users\uxiap\OneDrive\Escritorio\2ºDAM(verano)2025\DI\Tema1 ejer 1-7 ( boletin Tema1, 2, 3 ejercicios)\ejer4\obj\Debug\ejer4.exe.config
