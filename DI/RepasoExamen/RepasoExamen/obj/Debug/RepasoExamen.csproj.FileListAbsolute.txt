@@ -1,0 +1,10 @@
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\bin\Debug\RepasoExamen.exe.config
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\bin\Debug\RepasoExamen.exe
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\bin\Debug\RepasoExamen.pdb
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.csproj.AssemblyReference.cache
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.Form1.resources
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.Properties.Resources.resources
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.csproj.GenerateResource.cache
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.exe
+C:\Users\uxiap\26-27DAM\DI\RepasoExamen\RepasoExamen\obj\Debug\RepasoExamen.pdb

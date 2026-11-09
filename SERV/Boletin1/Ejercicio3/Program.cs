@@ -24,7 +24,7 @@ namespace Ejercicio3
             double numero;
             while (!double.TryParse(textoNumero, out numero))
             {
-                Console.Write("Valor no válido. Introduce un número: ");
+                Console.Write("Valor no valido");
                 textoNumero = Console.ReadLine();
             }
 
@@ -38,17 +38,17 @@ namespace Ejercicio3
             // 5. Según la opción, asignamos una lambda al delegado
             //    Lambda para el cuadrado: x => x * x
             //    Lambda para el cubo:     x => x * x * x
-            if (opcion == "c" || opcion.Equals("cuadrado", StringComparison.OrdinalIgnoreCase))
+            if (opcion == "c" || opcion.Equals("cuadrado"))
             {
                 operacionSeleccionada = x => x * x;
             }
-            else if (opcion == "b" || opcion.Equals("cubo", StringComparison.OrdinalIgnoreCase))
+            else if (opcion == "b" || opcion.Equals("cubo"))
             {
                 operacionSeleccionada = x => x * x * x;
             }
             else
             {
-                Console.WriteLine("Opción no válida. Se calculará el cuadrado por defecto.");
+                Console.WriteLine("Opción no valida");
                 operacionSeleccionada = x => x * x;
             }
 
@@ -57,9 +57,6 @@ namespace Ejercicio3
 
             // 7. Mostramos el resultado
             Console.WriteLine($"El resultado es: {resultado}");
-
-            Console.WriteLine("Pulsa una tecla para salir...");
-            Console.ReadKey();
         }
     }
 }

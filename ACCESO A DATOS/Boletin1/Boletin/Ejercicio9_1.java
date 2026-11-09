@@ -1,4 +1,5 @@
 import java.io.DataInputStream;
+import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
@@ -31,20 +32,44 @@ public class Ejercicio9_1 {
      * altura -> double
      */
 
-    // tareas -> menu
-    //informar de problemas, por ejemplo si un alumno no existe
+    // tareas -> menu:
+    /*
+     * ➢ Dar de alta nuevos alumnos.
+     * ➢ Consultar alumnos.
+     * ➢ Modificar alumnos.
+     * ➢ Borrar alumnos.
+     */
+    // informar de problemas, por ejemplo si un alumno no existe
 
     public static void main(String[] args) {
         int opcion = 0;
         do {
-            System.out.println("Menu:\n1)dar de alta nuevos alumnos\n2)consultar alumnos\n3)modificar alumnos\n4)borrar alumnos\n5)salir");
+            System.out.println(
+                    "Menu:\n1)dar de alta nuevos alumnos\n2)consultar alumnos\n3)modificar alumnos\n4)borrar alumnos\n5)salir");
             switch (opcion) {
+                FileInputStream fis = new FileinputStream("alumnos.dat");
                 case 1:
-                    try(DataInputStream dis = new DataInputStream(fichero)) {
-                        
-                    } catch (IOException e) {
-                        System.out.println("Error el fichero no se pudo");
-                    }
+                    // try (DataInputStream dis = new DataInputStream(fis)) {
+
+                    // } catch (IOException e) {
+                    //     System.out.println("Error el fichero no se pudo");
+                    // }
+
+                    int codigo;
+                    String nombre;
+                    double altura;
+
+                    System.out.println("Vamos a dar de alta");
+
+                    System.out.println("Dime el codigo del alumno");
+                    codigo = sc.nextInt();
+
+                    System.out.println("Dime el nombre del alumno");
+                    nombre = sc.nextLine();
+
+                    System.out.println("Dime la altura del alumno");
+                    altura = sc.nextDouble();
+
                     break;
 
                 case 2:

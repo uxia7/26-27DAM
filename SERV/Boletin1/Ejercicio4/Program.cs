@@ -9,68 +9,71 @@ namespace Ejercicio4
 {
     internal class Program
     {
+            //TODO revisar archivo
         static void Main(string[] args)
         {
             // Ruta del archivo en la carpeta del usuario
-            string ruta = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)
-                          + "\\archivoDelegados.txt";
-
+            string ruta = Environment.GetEnvironmentVariable("userprofile") + "\\archivoDelegados.txt";
             // Leemos todas las líneas del archivo
             string[] lineas = File.ReadAllLines(ruta);
             //file es una clase que no necesita instancia para usarse
 
-            // Primera línea → números
-            int[] numbers = lineas[0]
-                            .Split(',')
-                            .Select(x => int.Parse(x))
-                            .ToArray();
+            // Primera línea que hace ref a los números
+            string[] trozos = lineas[0].Split(',');
 
-            // Segunda línea → palabras
-            string[] words = lineas[1]
-                             .Split(',');
+            int[] numbers = new int[trozos.Length];
+
+            for (int i = 0; i < trozos.Length; i++)
+            {
+                numbers[i] = int.Parse(trozos[i]);
+            }
+
+            // y la segunda que me hace ref a las palabras
+            string[] words = lineas[1].Split(',');
 
             Console.WriteLine("Operaciones con numbers:");
 
-            // 1. Saber si hay algún número negativo
+            // saber si hay algún número negativo
             bool hayNegativo = Array.Exists(numbers, x => x < 0);
-            Console.WriteLine($"Negativo?: {hayNegativo}");
+            Console.WriteLine($"Existe un neg?: {hayNegativo}");
 
-            // 2. Mostrar los impares
+            // mostrar los impares
             int[] impares = Array.FindAll(numbers, x => x % 2 != 0);
-            Console.WriteLine("Impares: " + string.Join(", ", impares));
+            Console.Write("Impares: ");
+            Array.ForEach(impares, x => Console.Write(x + " "));
 
-            // 3. Posición del último número mayor que 10
+            // posicion del ultimo mayor a 10
             int posMayor10 = Array.FindLastIndex(numbers, x => x > 10);
-            Console.WriteLine($"Ultimo mayor que 10 está en la posición: {posMayor10}");
+            Console.WriteLine($"Ultimo mayor que 10 en la pos: {posMayor10}");
 
-            // 4. Valor del último positivo
+            // valor del ultimo pos
             int ultimoPositivo = Array.FindLast(numbers, x => x > 0);
-            Console.WriteLine($"Ultimo positivo: {ultimoPositivo}");
+            Console.WriteLine($"Ultimo pos: {ultimoPositivo}");
 
-            // 5. Cuántos son positivos y divisibles entre 5
+            // cuantos son pos y divisibles entre 5
+            //TODO Count
             int cantidadPosDiv5 = Array.FindAll(numbers, x => x > 0 && x % 5 == 0).Length;
-            Console.WriteLine($"Positivos y divisibles entre 5: {cantidadPosDiv5}");
+            Console.WriteLine($"Pos y divisibles entre 5: {cantidadPosDiv5}");
 
             Console.WriteLine("\nOperaciones con words:");
 
-            // 1. Primera palabra de más de 4 caracteres
+            // primera palabra de más de 4 caracteres
             string primeraLarga = Array.Find(words, w => w.Length > 4);
-            Console.WriteLine($"Primera palabra con más de 4 caracteres: {primeraLarga}");
+            Console.WriteLine($"Primera palabra con mas de 4 carac: {primeraLarga}");
 
-            // 2. Mostrar todas las palabras en mayúsculas
-            string[] mayus = Array.ConvertAll(words, w => w.ToUpper());
-            Console.WriteLine("Palabras en mayúsculas: " + string.Join(", ", mayus));
+            // mostrar todas las palabras en mayúsculas
+            string[] mayus = Array.ConvertAll(words, w => w.ToUpper());//TODO innecesario
+            Console.Write("Palabras en mayus: ");
+            Array.ForEach(mayus, w => Console.Write(w + " "));
 
-            // 3. ¿Existe palabra de dos caracteres cuyo segundo sea 'A'?
+            // existe palabra de dos caracteres cuyo segundo sea 'A'
             bool existeDosConA = Array.Exists(words, w => w.Length == 2 && w[1] == 'A');
-            Console.WriteLine($"¿Existe palabra de dos caracteres y segundo A?: {existeDosConA}");
+            Console.WriteLine($"Existe una palabra con dos caracteres y que el segundo sea A?: {existeDosConA}");
 
-            // 4. Posición de la primera palabra que empiece por E
+            // posición de la primera palabra que empiece por E
             int posEmpiezaE = Array.FindIndex(words, w => w.StartsWith("E"));
-            Console.WriteLine($"Primera palabra que empieza por E está en la posición: {posEmpiezaE}");
+            Console.WriteLine($"Primera palabra que empieza por E esta en la pos: {posEmpiezaE}");
 
-            //Console.WriteLine("\nPulsa una tecla para salir...");
-            //Console.ReadKey();
         }
     }
 }

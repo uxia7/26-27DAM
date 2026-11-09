@@ -23,7 +23,8 @@ public class Ejercicio2 {
     }
 
     public static void main(String[] args) {
-        File ruta = new File("C:\\Users\\uxiap\\26-27DAM\\ACCESO A DATOS\\BoletinDom\\Peliculas.xml");
-
+        // File ruta = new File("C:\\Users\\uxiap\\26-27DAM\\ACCESO A DATOS\\BoletinDom\\Peliculas.xml");
+        Ejercicio2 ej = new Ejercicio2();
+        ej.creaArbol("Peliculas.xml");
     }
 }
