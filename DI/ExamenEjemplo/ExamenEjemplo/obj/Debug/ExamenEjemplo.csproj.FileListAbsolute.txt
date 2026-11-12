@@ -1,0 +1,10 @@
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\bin\Debug\ExamenEjemplo.exe.config
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\bin\Debug\ExamenEjemplo.exe
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\bin\Debug\ExamenEjemplo.pdb
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.csproj.AssemblyReference.cache
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.FrmPrincipal.resources
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.Properties.Resources.resources
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.csproj.GenerateResource.cache
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.exe
+C:\Users\uxiap\26-27DAM\DI\ExamenEjemplo\ExamenEjemplo\obj\Debug\ExamenEjemplo.pdb

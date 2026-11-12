@@ -39,7 +39,7 @@
             this.clickIzq.Name = "clickIzq";
             this.clickIzq.Size = new System.Drawing.Size(75, 23);
             this.clickIzq.TabIndex = 0;
-            this.clickIzq.Text = "Click Izq";
+            this.clickIzq.Text = "Izquierda";
             this.clickIzq.UseVisualStyleBackColor = true;
             this.clickIzq.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
             // 
@@ -49,7 +49,7 @@
             this.clickDere.Name = "clickDere";
             this.clickDere.Size = new System.Drawing.Size(105, 23);
             this.clickDere.TabIndex = 1;
-            this.clickDere.Text = "Click Drch";
+            this.clickDere.Text = "Derecha";
             this.clickDere.UseVisualStyleBackColor = true;
             this.clickDere.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
             // 
@@ -64,11 +64,12 @@
             this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "MouseTester";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
-            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseDown);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.btnRaton_MouseDown);
             this.MouseLeave += new System.EventHandler(this.Form1_MouseLeave);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
-            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseUp);
+            this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.btnRaton_MouseUp);
             this.ResumeLayout(false);
 
         }

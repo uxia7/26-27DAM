@@ -16,19 +16,6 @@ namespace Ejercicio4
         public Form1()
         {
             InitializeComponent();
-
-            this.AcceptButton = btnAñadir;
-
-            toolTip1.SetToolTip(btnAñadir, "Añadir elemento");
-            toolTip1.SetToolTip(btnEliminar, "Eliminar elemento");
-            toolTip1.SetToolTip(btnTraspasar, "Traspasar elementos");
-
-            actualizarLabelCantidad();
-            actualizarLabelIndices();
-            actualizarToolTipLista2();
-
-            timer1.Interval = 200;
-            timer1.Start();
         }
 
         private void Form1_Load(object sender, EventArgs e)

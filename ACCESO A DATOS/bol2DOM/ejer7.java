@@ -54,10 +54,9 @@ public class ejer7 {
                 } else {
                     System.out.println("La pelicula ya tiene ese atributo");
                 }
-            } else {
-                System.out.println("No se encontro ninguna pelicula con ese titulo");
+                break;
+            } 
 
-            }
         }
 
     }
@@ -88,15 +87,17 @@ public class ejer7 {
                 } else {
                     System.out.println("La pelicula no tiene ese atributo");
                 }
-            } else {
-                System.out.println("No se encontro ninguna pelicula con ese atributo");
+                break;
             }
+
         }
     }
+
 
     public static void main(String[] args) {
         ejer7 e7 = new ejer7();
         Document doc1 = e7.creaArbol("peliculas.xml");
-        Document doc2 = e7.creaArbol("https://www.w3schools.com/xml/cd_catalog.xml");
+        
+        
     }
 }

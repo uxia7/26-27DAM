@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Ejercicio1
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form//TODO otros botones del raton tienen que funcionar, la rueda tambien
     {
         Button[,] botones;
         string titulo;
@@ -32,15 +32,19 @@ namespace Ejercicio1
                 {
                     botones[i, j] = new Button();
                     botones[i, j].Size = new Size(50, 50);
-                    botones[i, j].Location = new Point(j * 50, i * 50);
+                    botones[i, j].Location = new Point(100 + j * 50, 50 + i * 50);
                     botones[i, j].Text = cont.ToString();
 
                     botones[i, j].MouseMove += this.Form1_MouseMove; //foo; (curro)// 
                     /*
                      * cuando llamo al .MouseMove
                      */
-                    botones[i, j].MouseDown += this.Form1_MouseDown;
-                    botones[i, j].MouseUp += this.Form1_MouseUp;
+                    botones[i, j].MouseDown += this.btnRaton_MouseDown;
+
+
+
+
+                    botones[i, j].MouseUp += this.btnRaton_MouseUp;
 
                     this.Controls.Add(botones[i, j]);
                     cont++;
@@ -133,7 +137,7 @@ namespace Ejercicio1
 
         //ANOTACION:
         //ambas propiedades Down y Up, tienen informacion sobre e.Button que nos dice cual de los dos click del raton ocurrio
-        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        private void btnRaton_MouseDown(object sender, MouseEventArgs e)
         {
             //este evento es el que se lanza cuando se pulsa el raton hacia abajo se ejecuta algo pero en el momento en el que se suelta
             //y solo pasa cuando se pulsa pero cuando se levanta ya no
@@ -161,7 +165,7 @@ namespace Ejercicio1
 
         }
 
-        private void Form1_MouseUp(object sender, MouseEventArgs e)
+        private void btnRaton_MouseUp(object sender, MouseEventArgs e)
         {
             //if (e.Button == MouseButtons.Left)
             //{
@@ -186,12 +190,24 @@ namespace Ejercicio1
             if (sender is Button)
             {
                 ((Button)sender).ForeColor = Color.Black;
+            } //mejores funciones separadas, el button por un lado y el mouse por el otro
+            else if (e.Button == MouseButtons.Left)
+            {
+                clickIzq.BackColor = Color.Teal;
+                clickDere.BackColor = Color.White;
+
+            }
+            else if (e.Button == MouseButtons.Right)
+            {
+                clickIzq.BackColor = Color.White;
+                clickDere.BackColor = Color.Violet;
             }
             else
             {
                 clickIzq.BackColor = Color.White;
                 clickDere.BackColor = Color.White;
             }
+
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -231,6 +247,21 @@ namespace Ejercicio1
              * lo gestiona solo el formulario, con lo cual, no existe la posibilidad de que los componentes capturen el evento y asi funciona correctamente
              * sobre el form y solo el formulario
              */
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult respuesta = MessageBox.Show("Seguro que quieres salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (respuesta == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+            else
+            {
+                //este else podria omitirse??
+                e.Cancel = false;
+            }
         }
     }
 }

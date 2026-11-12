@@ -1,0 +1,28 @@
+{
+  "empresa": {
+    "nombre": "TechNova Solutions",
+    "departamentos": [
+      {
+        "nombre": "Ingeniería de Software",
+        "equipos": [
+          {
+            "nombre": "Equipo Backend",
+            "tecnologias": [
+              "Node.js",
+              "PostgreSQL",
+              "Docker"
+            ],
+            "lider": {
+              "nombre": "Carlos Ruiz",
+              "tomaPosesion": "2026-11-09",
+              "contacto": {
+                "email": "carlos.ruiz@technova.com",
+                "extension": 402
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
