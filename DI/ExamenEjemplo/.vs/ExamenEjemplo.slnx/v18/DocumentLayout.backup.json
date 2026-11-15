@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\uxiap\\26-27DAM\\DI\\ExamenEjemplo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|c:\\users\\uxiap\\26-27dam\\di\\examenejemplo\\examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|solutionrelative:examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|c:\\users\\uxiap\\26-27dam\\di\\examenejemplo\\examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|solutionrelative:examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|c:\\users\\uxiap\\26-27dam\\di\\examenejemplo\\examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|solutionrelative:examenejemplo\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55982473-21D7-4908-89FD-B208E780F292}|ExamenEjemplo\\ExamenEjemplo.csproj|c:\\users\\uxiap\\26-27dam\\di\\examenejemplo\\examenejemplo\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -38,20 +38,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\ExamenEjemplo\\ExamenEjemplo\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ExamenEjemplo\\FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\ExamenEjemplo\\ExamenEjemplo\\FrmPrincipal.cs",
               "RelativeToolTip": "ExamenEjemplo\\FrmPrincipal.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAEoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T17:04:15.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\ExamenEjemplo\\ExamenEjemplo\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ExamenEjemplo\\FrmPrincipal.cs",

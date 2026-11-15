@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52945D17-8129-46F3-8C10-E476FA0D0EDC}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin2\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52945D17-8129-46F3-8C10-E476FA0D0EDC}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52945D17-8129-46F3-8C10-E476FA0D0EDC}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin2\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{52945D17-8129-46F3-8C10-E476FA0D0EDC}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{CD9FC022-7ACB-4D4D-8751-BFEA35C4ADFA}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9FC022-7ACB-4D4D-8751-BFEA35C4ADFA}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\uxiap\\26-27dam\\di\\boletin2\\ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9FC022-7ACB-4D4D-8751-BFEA35C4ADFA}|Ejercicio5\\Ejercicio5.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9FC022-7ACB-4D4D-8751-BFEA35C4ADFA}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio3\\Form1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T04:35:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio3\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio5\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio5\\Form1.cs",
@@ -54,24 +71,22 @@
               "RelativeToolTip": "Ejercicio5\\Form1.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T12:32:40.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T12:32:40.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio5\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio5\\Form1.cs",
               "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio5\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicio5\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T10:34:10.363Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-11-12T10:34:10.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio5\\Form2.cs",
               "RelativeDocumentMoniker": "Ejercicio5\\Form2.cs",
@@ -83,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\Boletin2\\Ejercicio5\\Form2.cs",
               "RelativeDocumentMoniker": "Ejercicio5\\Form2.cs",
