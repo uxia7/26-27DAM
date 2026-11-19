@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|solutionrelative:repasogenerico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|c:\\users\\uxiap\\26-27dam\\di\\repasogenerico\\repasogenerico\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\repasogenerico\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|solutionrelative:repasogenerico\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|c:\\users\\uxiap\\26-27dam\\di\\repasogenerico\\repasogenerico\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\repasogenerico\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|solutionrelative:repasogenerico\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|c:\\users\\uxiap\\26-27dam\\di\\repasogenerico\\repasogenerico\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\repasogenerico\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|solutionrelative:repasogenerico\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|c:\\users\\uxiap\\26-27dam\\di\\repasogenerico\\repasogenerico\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\repasogenerico\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22FEF1D2-F3F6-4F88-9A01-2729DDEE7E75}|RepasoGenerico\\RepasoGenerico.csproj|solutionrelative:repasogenerico\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "RepasoGenerico\\Cometa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T18:50:44.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T18:50:44.14Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "RepasoGenerico\\Planeta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T18:03:40.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T18:03:40.858Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "RepasoGenerico\\ITerraformable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T18:01:56.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T18:01:56.419Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "RepasoGenerico\\Astro.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T17:38:39.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:38:39.608Z"
             },
             {
               "$type": "Document",
@@ -90,9 +86,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\RepasoGenerico\\Program.cs",
               "RelativeDocumentMoniker": "RepasoGenerico\\Program.cs",
-              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\RepasoGenerico\\Program.cs*",
-              "RelativeToolTip": "RepasoGenerico\\Program.cs*",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAAAMMAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\DI\\RepasoGenerico\\RepasoGenerico\\Program.cs",
+              "RelativeToolTip": "RepasoGenerico\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T17:09:15.058Z",
               "EditorCaption": ""
