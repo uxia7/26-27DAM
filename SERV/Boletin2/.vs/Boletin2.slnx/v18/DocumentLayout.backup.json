@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00AC8BA0-4E61-4EF9-88A8-9C3293883FB5}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\uxiap\\26-27dam\\serv\\boletin2\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53991B91-4683-49B0-ABA0-8139C7F3CAA1}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\uxiap\\26-27dam\\serv\\boletin2\\ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53991B91-4683-49B0-ABA0-8139C7F3CAA1}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53991B91-4683-49B0-ABA0-8139C7F3CAA1}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\uxiap\\26-27dam\\serv\\boletin2\\ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53991B91-4683-49B0-ABA0-8139C7F3CAA1}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00AC8BA0-4E61-4EF9-88A8-9C3293883FB5}|Ejercicio2\\Ejercicio2.csproj|C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00AC8BA0-4E61-4EF9-88A8-9C3293883FB5}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3451867E-A9C2-49A5-932F-30F82E5EB48A}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\uxiap\\26-27dam\\serv\\boletin2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3451867E-A9C2-49A5-932F-30F82E5EB48A}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3451867E-A9C2-49A5-932F-30F82E5EB48A}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +31,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio 3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio 3\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T10:44:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio 3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio 3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T10:44:25.035Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
@@ -35,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\Boletin2\\Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
@@ -43,8 +76,7 @@
               "RelativeToolTip": "Ejercicio1\\Program.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAkwDkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T08:24:48.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T08:24:48.735Z"
             }
           ]
         }

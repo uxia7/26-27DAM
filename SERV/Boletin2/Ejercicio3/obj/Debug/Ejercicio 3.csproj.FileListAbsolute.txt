@@ -1,0 +1,10 @@
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\uxiap\26-27DAM\SERV\Boletin2\Ejercicio 3\obj\Debug\Ejercicio 3.pdb

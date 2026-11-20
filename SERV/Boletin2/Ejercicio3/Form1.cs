@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejercicio3
+namespace Ejercicio_3
 {
     public partial class Form1 : Form
     {
@@ -16,6 +16,7 @@ namespace Ejercicio3
         {
             InitializeComponent();
         }
+
 
         //el enunciado nos dice que tiene que haber una funcion con esta cabecera
         //esta funcion devuelve un Task porque la operacion es asincrona y ademas devuelve un resultado tipo string
@@ -29,20 +30,25 @@ namespace Ejercicio3
             //y tiene que devolver File archivo.txt downloaded in 5000 ms.
         }
 
+
+
         //tenemos que poner el async justo delante de esta funcion porque dentro de esta funcion estamos usando el await
         //por ese mismo motivo, siempre que usemos el await dentro de una funcion dicha funcion tiene que llevar en su cabecera
         //la palabra async
         private async void btnDownload_Click(object sender, EventArgs e)
         {
+
             string nombre = txtFileName.Text;
 
-            Random r = new Random();
+            Random rand = new Random();
 
-            int delay = r.Next(1000, 10001);
+            int delay = rand.Next(1000, 10001);
 
             string resultado = await DownloadFileAsync(nombre, delay);
 
             txtResults.AppendText(resultado + "\n");
         }
+
+
     }
 }

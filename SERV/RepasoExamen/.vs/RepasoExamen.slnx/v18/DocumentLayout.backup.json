@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\uxiap\\26-27DAM\\SERV\\RepasoExamen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40FBFFA0-82E1-4AF5-9B07-F1C0F28535A8}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\uxiap\\26-27dam\\serv\\repasoexamen\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40FBFFA0-82E1-4AF5-9B07-F1C0F28535A8}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82FF4C19-111A-446C-806B-4586D5F843F9}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\uxiap\\26-27DAM\\SERV\\RepasoExamen\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FF4C19-111A-446C-806B-4586D5F843F9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FF4C19-111A-446C-806B-4586D5F843F9}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\uxiap\\26-27dam\\serv\\repasoexamen\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FF4C19-111A-446C-806B-4586D5F843F9}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40FBFFA0-82E1-4AF5-9B07-F1C0F28535A8}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\uxiap\\26-27dam\\serv\\repasoexamen\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FBFFA0-82E1-4AF5-9B07-F1C0F28535A8}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\RepasoExamen\\Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uxiap\\26-27DAM\\SERV\\RepasoExamen\\Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
               "ToolTip": "C:\\Users\\uxiap\\26-27DAM\\SERV\\RepasoExamen\\Ejercicio1\\Program.cs",
               "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv2QAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv2QAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T13:54:47.748Z",
               "EditorCaption": ""
